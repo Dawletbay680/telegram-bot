@@ -9,8 +9,8 @@ from aiogram.fsm.context import FSMContext
 from openai import AsyncOpenAI
 import docx
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+BOT_TOKEN = "8695864774:AAH8V_XNxT1vXP89EFk6MnF7bAdK
+OPENAI_API_KEY = "dawlet1215..."
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
